@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|solutionrelative:Oop_Project\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\HangMan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|solutionrelative:Oop_Project\\HangMan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\SoundSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|solutionrelative:Oop_Project\\SoundSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\GameBoy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F590184-91E6-4900-BE29-4ED02E10539A}|Oop_Project\\Oop_Project.vcxproj|solutionrelative:Oop_Project\\GameBoy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameBoy.h",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\GameBoy.h",
+              "RelativeDocumentMoniker": "Oop_Project\\GameBoy.h",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\GameBoy.h",
+              "RelativeToolTip": "Oop_Project\\GameBoy.h",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAKMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T18:50:52.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangMan.h",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\HangMan.h",
+              "RelativeDocumentMoniker": "Oop_Project\\HangMan.h",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\HangMan.h",
+              "RelativeToolTip": "Oop_Project\\HangMan.h",
+              "ViewState": "AgIAADQBAAAAAAAAAAAAAEEBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T17:32:50.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundSystem.h",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\SoundSystem.h",
+              "RelativeDocumentMoniker": "Oop_Project\\SoundSystem.h",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\SoundSystem.h",
+              "RelativeToolTip": "Oop_Project\\SoundSystem.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAxwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T18:50:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\Main.cpp",
+              "RelativeDocumentMoniker": "Oop_Project\\Main.cpp",
+              "ToolTip": "C:\\Users\\WIN10\\Downloads\\Oop_Project\\Oop_Project\\Oop_Project\\Main.cpp",
+              "RelativeToolTip": "Oop_Project\\Main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T17:27:04.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

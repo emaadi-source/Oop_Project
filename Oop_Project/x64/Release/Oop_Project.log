@@ -1,0 +1,79 @@
+﻿  Main.cpp
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(115,84): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(115,84): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(115,84): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(115,84): warning C4244:             T=float
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(115,84): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(123,33): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Screen.h(153,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeClasses.h(35,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeClasses.h(35,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeClasses.h(64,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeClasses.h(84,36): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:         and
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:             T=float
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(116,54): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,82): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,82): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,82): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,82): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,59): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,59): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,59): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(188,59): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(359,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(360,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\SnakeGame.h(389,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(138,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(138,59): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(138,59): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(138,59): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(138,59): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(156,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(156,59): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(156,59): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(156,59): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(156,59): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,94): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,94): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,94): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,94): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,94): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,65): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,65): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,65): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\HangMan.h(201,65): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:         and
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:             T=float
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(92,54): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,82): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,82): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,82): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,82): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,59): warning C4244:         with
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,59): warning C4244:         [
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,59): warning C4244:             T=unsigned int
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\Wordle.h(161,59): warning C4244:         ]
+C:\Users\Laptop inn\Desktop\Oop_Project\Oop_Project\GameBoy.h(41,19): warning C4101: 'event_temp': unreferenced local variable
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 297 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Oop_Project.vcxproj -> C:\Users\Laptop inn\Desktop\Oop_Project\x64\Release\Oop_Project.exe
